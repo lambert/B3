@@ -1,1 +1,1 @@
-# Beaglebone Black 7 inch 4D cape
+# BeagleBone Black 7 inch LCD 4D cape
